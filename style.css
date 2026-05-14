@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: aqua;
+    text-align: center;
+}
+
+.titulo{
+color: aliceblue;
+color: #f70c0c;
+counter-reset: 40;
+margin-left: auto;
+margin-right: auto;
+text-decoration: underline;
+font-style: italic;
+background-color: #000;
+border: #000;
+cursor: alias;
+padding: 20px;
+font-size: 18px;
+font-weight: bold;
+border-radius: 10px;
+box-shadow: 2px 2px 5px #333;
+}
+
+img{
+    border-radius: 10px;
+    font-size: large;
+}
+button{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+}
